@@ -1,6 +1,10 @@
 # QuPath
 QuPath info and usage in VMCF
 
+ * QuPath [documentation and tutorials](https://qupath.github.io/)
+ * QuPath NEUBIAS Academy [webinar](https://www.youtube.com/watch?v=4An5n6Y_rRI&ab_channel=NEUBIAS)
+ * Qupath other [tutorials](https://www.youtube.com/@QuPath/featured)
+
 ## QuPath v 0.4.4
 
 QuPath is an open-source digital pathology software designed for the analysis of whole slide images (WSI). It enables researchers and pathologists to perform tasks such as tissue segmentation, cell detection, and biomarker quantification. QuPath offers an intuitive user interface and a range of powerful tools for image analysis, making it a valuable tool in pathology research and diagnostic applications.
