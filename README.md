@@ -10,6 +10,9 @@ QuPath info and usage in VMCF
 QuPath is an open-source digital pathology software designed for the analysis of whole slide images (WSI). It enables researchers and pathologists to perform tasks such as tissue segmentation, cell detection, and biomarker quantification. QuPath offers an intuitive user interface and a range of powerful tools for image analysis, making it a valuable tool in pathology research and diagnostic applications.
 
 # Installed extensions
+## Cellpose
+There is option to work with Cellpose in QuPath, learn more here: [https://github.com/BIOP/qupath-extension-cellpose](https://github.com/BIOP/qupath-extension-cellpose)
+
 ## Stardist 
 
 > - Uwe Schmidt, Martin Weigert, Coleman Broaddus, and Gene Myers. [Cell Detection with Star-convex Polygons](https://arxiv.org/abs/1806.03535). *International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, Granada, Spain, September 2018.
